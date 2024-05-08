@@ -5,4 +5,4 @@ I am **Arda Sentürk**. I am an **React Native & Expo Developer** based in **Bay
 - 🧑‍💻 I’m currently learning **[TypeScript](https://www.typescriptlang.org)** & **[GraphQL](https://graphql.org)**
 
 
-<a href="https://app.daily.dev/ardasnturk"><img src="https://api.daily.dev/devcards/v2/TxHOWNAqeVUZZaa16JKFj.png?type=default&r=l1u" width="356" alt="Arda Sentürk's Dev Card"/></a>
+<a href="https://app.daily.dev/ardasnturk"><img src="https://api.daily.dev/devcards/v2/TxHOWNAqeVUZZaa16JKFj.png?type=wide&r=l1u" width="652" alt="Arda Sentürk's Dev Card"/></a>
